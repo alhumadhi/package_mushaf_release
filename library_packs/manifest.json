@@ -1,0 +1,1069 @@
+{
+ "version": 1,
+ "books": [
+  {
+   "slug": "kitab-tawhid",
+   "title": "كتاب التوحيد",
+   "author": "محمد بن عبد الوهاب",
+   "deathYear": 1206,
+   "category": "العقيدة",
+   "sizeBytes": 40749,
+   "sha256": "b617f154536d3de1eac4c485bbb80fe5631cbefe2fdbb6dc65577f0f2b6aceb8",
+   "chapters": 3,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/1225AH/master/data/1206IbnCabdWahhab/1206IbnCabdWahhab.Tawhid/1206IbnCabdWahhab.Tawhid.JK006870-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "مطابع الرياض — الرياض",
+    "editor": "عبد العزيز بن زيد الرومي ، د . محمد بلتاجي ، د . سيد حجاب",
+    "versionUri": "1206IbnCabdWahhab.Tawhid.JK006870-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "kashf-shubuhat",
+   "title": "كشف الشبهات",
+   "author": "محمد بن عبد الوهاب",
+   "deathYear": 1206,
+   "category": "العقيدة",
+   "sizeBytes": 13964,
+   "sha256": "d4e9fb267cdaa9f0b160494e694a6d81d564b4dd1b5566a89b716c135f414d8e",
+   "chapters": 1,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/1225AH/master/data/1206IbnCabdWahhab/1206IbnCabdWahhab.KashfShubuhat/1206IbnCabdWahhab.KashfShubuhat.JK006871-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "مطابع الرياض — الرياض",
+    "editor": "ناصر بن عبد الله الطريم ، سعود بن محمد البشر ، عبد الكريم اللاحم",
+    "versionUri": "1206IbnCabdWahhab.KashfShubuhat.JK006871-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "rasail-tawhid-ibn-abdulwahhab",
+   "title": "مجموعة رسائل في التوحيد والإيمان",
+   "author": "محمد بن عبد الوهاب",
+   "deathYear": 1206,
+   "category": "العقيدة",
+   "sizeBytes": 23514,
+   "sha256": "79036bc1c9bd582d89a1041e830a64a89f6d59fdecb6a053b9924763ad3e7708",
+   "chapters": 2,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/1225AH/master/data/1206IbnCabdWahhab/1206IbnCabdWahhab.MajmucatRasailFiTawhid/1206IbnCabdWahhab.MajmucatRasailFiTawhid.JK006876-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "مطابع الرياض — الرياض",
+    "editor": "فضيلة الشيخ إسماعيل بن محمد الأنصاري",
+    "versionUri": "1206IbnCabdWahhab.MajmucatRasailFiTawhid.JK006876-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "aqidah-wasitiyyah",
+   "title": "العقيدة الواسطية",
+   "author": "ابن تيمية",
+   "deathYear": 728,
+   "category": "العقيدة",
+   "sizeBytes": 13676,
+   "sha256": "1c9bfa69479a2b6094bcd96d42cb3eb3bd91bf42c912e7a1b436eab163faf749",
+   "chapters": 1,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.CaqidaWasitiyya/0728IbnTaymiyya.CaqidaWasitiyya.JK000359-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "الرئاسة العامة لإدارات البحوث والإفتاء — الرياض — 1412هـ",
+    "editor": "محمد بن عبد العزيز بم مانع",
+    "versionUri": "0728IbnTaymiyya.CaqidaWasitiyya.JK000359-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "hamawiyyah-kubra",
+   "title": "الفتوى الحموية الكبرى",
+   "author": "ابن تيمية",
+   "deathYear": 728,
+   "category": "العقيدة",
+   "sizeBytes": 60105,
+   "sha256": "106980cafb40db8a645c7cde6be43ad8cd25a2c833459c4a5760ae3ab14795ed",
+   "chapters": 19,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.HamawiyyaKubra/0728IbnTaymiyya.HamawiyyaKubra.Shamela0018381-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "دار الصميعي - الرياض",
+    "editor": "د. حمد بن عبد المحسن التويجري",
+    "versionUri": "0728IbnTaymiyya.HamawiyyaKubra.Shamela0018381-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "tadmuriyyah",
+   "title": "التدمرية: تحقيق الإثبات للأسماء والصفات وحقيقة الجمع بين القدر والشرع",
+   "author": "ابن تيمية",
+   "deathYear": 728,
+   "category": "العقيدة",
+   "sizeBytes": 65230,
+   "sha256": "4b5a576d4ef338b1786d59276130382ebd2544450eabc01c6a09b2bbc950bded",
+   "chapters": 19,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.RisalaTadmuriyya/0728IbnTaymiyya.RisalaTadmuriyya.Shamela0022666-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "مكتبة العبيكان - الرياض",
+    "editor": "د. محمد بن عودة السعوي",
+    "versionUri": "0728IbnTaymiyya.RisalaTadmuriyya.Shamela0022666-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "qaida-jamia-tawhid",
+   "title": "قاعدة جامعة في توحيد الله وإخلاص الوجه والعمل له عبادة واستعانة",
+   "author": "ابن تيمية",
+   "deathYear": 728,
+   "category": "العقيدة",
+   "sizeBytes": 26959,
+   "sha256": "232a35a657b7a35c2b9c1847dc991ba636f00a8d4f7ba32b6dff7a9f2ffd7a14",
+   "chapters": 10,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.QacidaJamicaFiTawhid/0728IbnTaymiyya.QacidaJamicaFiTawhid.Shamela0011285-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "دار العاصمة، الرياض، المملكة العربية السعودية",
+    "editor": "عبد الله بن محمد البصيري",
+    "versionUri": "0728IbnTaymiyya.QacidaJamicaFiTawhid.Shamela0011285-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "furqan-awliya",
+   "title": "الفرقان بين أولياء الرحمن وأولياء الشيطان",
+   "author": "ابن تيمية",
+   "deathYear": 728,
+   "category": "العقيدة",
+   "sizeBytes": 76289,
+   "sha256": "5f4c282d56da079a9792ae6bde4ae89a816475fc5c0f9b36e294f1c2a22651e5",
+   "chapters": 23,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.FurqanBaynaAwliya/0728IbnTaymiyya.FurqanBaynaAwliya.Shamela0021499-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "مكتبة دار البيان، دمشق — 1405 هـ - 1985 م",
+    "editor": "عبد القادر الأرناؤوط",
+    "versionUri": "0728IbnTaymiyya.FurqanBaynaAwliya.Shamela0021499-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "istiqamah",
+   "title": "الاستقامة",
+   "author": "ابن تيمية",
+   "deathYear": 728,
+   "category": "العقيدة",
+   "sizeBytes": 267646,
+   "sha256": "fd451270a050b4e1ebf1abdb9bb4abcbeee7a1a162a8e03ae13433f25c8055b9",
+   "chapters": 14,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.Istiqama/0728IbnTaymiyya.Istiqama.JK000028-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "جامعة الإمام محمد بن سعود — المدينة المنورة — 1403",
+    "editor": "د. محمد رشاد سالم",
+    "versionUri": "0728IbnTaymiyya.Istiqama.JK000028-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "aqidah-tahawiyyah",
+   "title": "متن العقيدة الطحاوية",
+   "author": "الطحاوي",
+   "deathYear": 321,
+   "category": "العقيدة",
+   "sizeBytes": 7214,
+   "sha256": "f77d53104a63c37ce59e87ab0f7f25efce71b82e8ed95ec4d6111a0523cd2fb7",
+   "chapters": 1,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0325AH/master/data/0321Tahawi/0321Tahawi.MatnCaqida/0321Tahawi.MatnCaqida.JK000126-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "المكتب الإسلامي — بيروت — 1398هـ - 1978م",
+    "editor": "محمد ناصر الدين الألباني",
+    "versionUri": "0321Tahawi.MatnCaqida.JK000126-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "lumat-itiqad",
+   "title": "لمعة الاعتقاد الهادي إلى سبيل الرشاد",
+   "author": "ابن قدامة المقدسي",
+   "deathYear": 620,
+   "category": "العقيدة",
+   "sizeBytes": 10729,
+   "sha256": "ef1c92fcec30e1aad113ee0685159ed7a681cd9429ac2c9a826017bbea54c53b",
+   "chapters": 1,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0625AH/master/data/0620IbnQudamaMaqdisi/0620IbnQudamaMaqdisi.LumcatIctiqad/0620IbnQudamaMaqdisi.LumcatIctiqad.JK000352-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "الدار السلفية — الكويت — 1406",
+    "editor": "بدر بن عبد الله البدر",
+    "versionUri": "0620IbnQudamaMaqdisi.LumcatIctiqad.JK000352-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "sharh-sunnah-barbahari",
+   "title": "كتاب شرح السنة",
+   "author": "الحسن بن علي بن خلف البربهاري أبو محمد",
+   "deathYear": 329,
+   "category": "العقيدة",
+   "sizeBytes": 17709,
+   "sha256": "18e54602d23648240759c4ccfae356a747929a5e859338bfeabf278dcd1d9f0c",
+   "chapters": 1,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0350AH/master/data/0329Barbahari/0329Barbahari.SharhSunna/0329Barbahari.SharhSunna.JK000752-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "دار ابن القيم — الدمام — 1408",
+    "editor": "د. محمد سعيد سالم القحطاني",
+    "versionUri": "0329Barbahari.SharhSunna.JK000752-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "usul-sunnah-ahmad",
+   "title": "أصول السنة",
+   "author": "أحمد بن حنبل",
+   "deathYear": 241,
+   "category": "العقيدة",
+   "sizeBytes": 5169,
+   "sha256": "cad2aa7ec8089a2e9fb1ab8c5a4d1c261af7e628b1d1d22368cf1211af5448e5",
+   "chapters": 1,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0250AH/master/data/0241IbnHanbal/0241IbnHanbal.UsulSunna/0241IbnHanbal.UsulSunna.JK000354-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "دار المنار — الخرج - السعودية — 1411هـ",
+    "editor": "",
+    "versionUri": "0241IbnHanbal.UsulSunna.JK000354-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "iqtisad-itiqad",
+   "title": "الاقتصاد في الاعتقاد",
+   "author": "عبد الغني المقدسي",
+   "deathYear": 600,
+   "category": "العقيدة",
+   "sizeBytes": 18034,
+   "sha256": "0df114857e8089dcdc80f41f701baf45e57b7f783620e31dd2b5ccbcdbb954a5",
+   "chapters": 43,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0600AH/master/data/0600CabdGhaniMaqdisi/0600CabdGhaniMaqdisi.IqtisadFiIctiqad/0600CabdGhaniMaqdisi.IqtisadFiIctiqad.Shamela0007546-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "مكتبة العلوم والحكم، المدينة المنورة، المملكة العربية السعودية",
+    "editor": "أحمد بن عطية بن علي الغامدي",
+    "versionUri": "0600CabdGhaniMaqdisi.IqtisadFiIctiqad.Shamela0007546-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "arbain-sifat-dhahabi",
+   "title": "كتاب الأربعين في صفات رب العالمين",
+   "author": "الذهبي",
+   "deathYear": 748,
+   "category": "العقيدة",
+   "sizeBytes": 21043,
+   "sha256": "e36e5c5c68c9d9be0f341c26e170f919c0c87a40f7faf166c29691fb19442275",
+   "chapters": 7,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0748Dhahabi/0748Dhahabi.ArbacinaFiSifat/0748Dhahabi.ArbacinaFiSifat.Shamela0012861-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "مكتبة العلوم والحكم، المدينة المنورة",
+    "editor": "",
+    "versionUri": "0748Dhahabi.ArbacinaFiSifat.Shamela0012861-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "tawhid-ibn-rajab",
+   "title": "كتاب التوحيد",
+   "author": "زين الدين أبو الفرج عبد الرحمان بن أحمد بن رجب عبد الرحمان بن الحسن بن محمد بن أبي البركات مسعود البغدادي السلامي الدمشقي",
+   "deathYear": 795,
+   "category": "العقيدة",
+   "sizeBytes": 17551,
+   "sha256": "cd090aa9ca862b9513e9bcca29248ef66613c7658e38ad64dec72779ca12a202",
+   "chapters": 1,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0800AH/master/data/0795IbnRajabHanbali/0795IbnRajabHanbali.Tawhid/0795IbnRajabHanbali.Tawhid.ShamAY0035260-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "",
+    "editor": "",
+    "versionUri": "0795IbnRajabHanbali.Tawhid.ShamAY0035260-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "tawhid-ibn-khuzaymah",
+   "title": "كتاب التوحيد",
+   "author": "ابن خزيمة",
+   "deathYear": 311,
+   "category": "العقيدة",
+   "sizeBytes": 178504,
+   "sha256": "3a93fe3494588c6a551ea75df1e195fd97b597db479e40f39f64556d6a040766",
+   "chapters": 11,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0325AH/master/data/0311IbnKhuzaymaNaysaburi/0311IbnKhuzaymaNaysaburi.Tawhid/0311IbnKhuzaymaNaysaburi.Tawhid.JK009159-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "مكتبة الرشد — السعودية - الرياض — 1414هـ - 1994م",
+    "editor": "عبد العزيز بن إبراهيم الشهوان",
+    "versionUri": "0311IbnKhuzaymaNaysaburi.Tawhid.JK009159-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "ibanah-sughra",
+   "title": "الإبانة عن شريعة الفرقة الناجية",
+   "author": "ابن بطة العكبري",
+   "deathYear": 387,
+   "category": "العقيدة",
+   "sizeBytes": 197225,
+   "sha256": "1fd5834638fbad048eaa33d2148b777c37ce6fa87da4bf5c1cb89af8c42bf48f",
+   "chapters": 12,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0400AH/master/data/0387IbnBattaCukbari/0387IbnBattaCukbari.IbanaCanSharica/0387IbnBattaCukbari.IbanaCanSharica.JK001487-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "دار الراية للنشر — السعودية — 1418هـ",
+    "editor": "عثمان عبد الله آدم الأثيوبي",
+    "versionUri": "0387IbnBattaCukbari.IbanaCanSharica.JK001487-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "sharia-ajurri",
+   "title": "الشريعة",
+   "author": "أبو بكر الآجري",
+   "deathYear": 360,
+   "category": "العقيدة",
+   "sizeBytes": 516107,
+   "sha256": "e621e5e538c05346e1b8629ba96e4357350327e02ba2dc5a33b4d4183c4dae1d",
+   "chapters": 32,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0375AH/master/data/0360AbuBakrAjurri/0360AbuBakrAjurri.Sharica/0360AbuBakrAjurri.Sharica.JK009158-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "دار الوطن — الرياض / السعودية — 1420 هـ - 1999 م",
+    "editor": "الدكتور عبد الله بن عمر بن سليمان الدميجي",
+    "versionUri": "0360AbuBakrAjurri.Sharica.JK009158-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "bulugh-maram",
+   "title": "بلوغ المرام من أدلة الأحكام",
+   "author": "ابن حجر العسقلاني",
+   "deathYear": 852,
+   "category": "الحديث",
+   "sizeBytes": 105004,
+   "sha256": "59ea87ea0869c5bc39e57346e27f73f2dacaaf82d60a05f3925a380816449d79",
+   "chapters": 46,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.BulughMaram/0852IbnHajarCasqalani.BulughMaram.Shamela0009111-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "دار الفلق - الرياض",
+    "editor": "سمير بن أمين الزهري",
+    "versionUri": "0852IbnHajarCasqalani.BulughMaram.Shamela0009111-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "umdat-ahkam",
+   "title": "عمدة الأحكام الكبرى",
+   "author": "عبد الغني المقدسي",
+   "deathYear": 600,
+   "category": "الحديث",
+   "sizeBytes": 95010,
+   "sha256": "d3613389adbcd295fc09cd62eff9dc32ac13d2a3ca59f0ee41543cf0b2b7387f",
+   "chapters": 31,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0600AH/master/data/0600CabdGhaniMaqdisi/0600CabdGhaniMaqdisi.CumdatAhkam/0600CabdGhaniMaqdisi.CumdatAhkam.Sham19Y0011194-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "",
+    "editor": "",
+    "versionUri": "0600CabdGhaniMaqdisi.CumdatAhkam.Sham19Y0011194-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "adab-mufrad",
+   "title": "الأدب المفرد",
+   "author": "البخاري",
+   "deathYear": 256,
+   "category": "الحديث",
+   "sizeBytes": 158781,
+   "sha256": "5e88c93c32ea22fc471ceda313e47cb4a9965cb26b2ead50f1cbd2745e100aea",
+   "chapters": 10,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0275AH/master/data/0256Bukhari/0256Bukhari.AdabMufrad/0256Bukhari.AdabMufrad.JK000011-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "دار البشائر الإسلامية — بيروت — 1409 - 1989",
+    "editor": "محمد فؤاد عبدالباقي",
+    "versionUri": "0256Bukhari.AdabMufrad.JK000011-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "adhkar-nawawi",
+   "title": "الأذكار المنتخبة من كلام سيد الأبرار",
+   "author": "النووي",
+   "deathYear": 676,
+   "category": "الحديث",
+   "sizeBytes": 246146,
+   "sha256": "3793ef8e61de8c710030f3b9b21943433b0b28dfda2b20cdd3805eaebe74ce97",
+   "chapters": 15,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0700AH/master/data/0676Nawawi/0676Nawawi.Adhkar/0676Nawawi.Adhkar.JK001249-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "دار الكتب العربي — بيروت — 1404هـ - 1984م.",
+    "editor": "",
+    "versionUri": "0676Nawawi.Adhkar.JK001249-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "riyad-salihin",
+   "title": "رياض الصالحين",
+   "author": "النووي",
+   "deathYear": 676,
+   "category": "الحديث",
+   "sizeBytes": 263249,
+   "sha256": "109bfaf151febd9267fa1807e4271176f0f10d15d4236c177dcfcbbc7705bbf5",
+   "chapters": 98,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0700AH/master/data/0676Nawawi/0676Nawawi.RiyadSalihin/0676Nawawi.RiyadSalihin.Shamela0012014-ara1.mARkdown",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "مؤسسة الرسالة، بيروت، لبنان",
+    "editor": "شعيب الأرنؤوط",
+    "versionUri": "0676Nawawi.RiyadSalihin.Shamela0012014-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "arbain-nawawiyyah",
+   "title": "الأربعون النووية",
+   "author": "النووي",
+   "deathYear": 676,
+   "category": "الحديث",
+   "sizeBytes": 9380,
+   "sha256": "0b214501fd369b87bad261db35fd74a8f80947f731dff395a3210888b3c97369",
+   "chapters": 45,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0700AH/master/data/0676Nawawi/0676Nawawi.ArbacunaNawawiyya/0676Nawawi.ArbacunaNawawiyya.Shamela0012836-ara1.mARkdown",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "دار المنهاج للنشر والتوزيع، لبنان - بيروت",
+    "editor": "",
+    "versionUri": "0676Nawawi.ArbacunaNawawiyya.Shamela0012836-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "muwatta-malik",
+   "title": "الموطأ",
+   "author": "مالك بن أنس",
+   "deathYear": 179,
+   "category": "الحديث",
+   "sizeBytes": 534820,
+   "sha256": "f2c1ea17810564351fd10d9f39a17d94809d667f3c6630c24811300457f9be86",
+   "chapters": 124,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0200AH/master/data/0179MalikIbnAnas/0179MalikIbnAnas.Muwatta/0179MalikIbnAnas.Muwatta.Shamela0028107-ara1.completed",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "مؤسسة زايد بن سلطان آل نهيان للأعمال الخيرية والإنسانية - أبو ظبي - الإمارات",
+    "editor": "محمد مصطفى الأعظمي",
+    "versionUri": "0179MalikIbnAnas.Muwatta.Shamela0028107-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "kabair-dhahabi",
+   "title": "الكبائر",
+   "author": "الذهبي",
+   "deathYear": 748,
+   "category": "الحديث",
+   "sizeBytes": 131510,
+   "sha256": "637f712216769e20e71dd34138f04f219d4f77026b299c5066d4544bee0bd3b4",
+   "chapters": 7,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0748Dhahabi/0748Dhahabi.Kabair/0748Dhahabi.Kabair.JK000429-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "دار الندوة الجديدة — بيروت",
+    "editor": "",
+    "versionUri": "0748Dhahabi.Kabair.JK000429-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "kabair-ibn-abdulwahhab",
+   "title": "الكبائر",
+   "author": "محمد بن عبد الوهاب",
+   "deathYear": 1206,
+   "category": "الحديث",
+   "sizeBytes": 26576,
+   "sha256": "5e40eac42369e731a42ea4fe639dfc7c60e75201a522f1dced377f815af4c4aa",
+   "chapters": 2,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/1225AH/master/data/1206IbnCabdWahhab/1206IbnCabdWahhab.Kabair/1206IbnCabdWahhab.Kabair.JK006877-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "مطابع الرياض — الرياض",
+    "editor": "قابله على أصوله الخطية : إسماعيل الأنصاري ، محمد عيد ، عبد العزيز بن إبراهيم الفريح . وحققه : إسماعيل الأنصاري . ورقم الآيات : صالح بن محمد الحسن .",
+    "versionUri": "1206IbnCabdWahhab.Kabair.JK006877-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "imta-arbain-ibn-hajar",
+   "title": "الإمتاع بالأربعين المتباينة السماع / ويليه أسئلة من خط الشيخ العسقلاني",
+   "author": "ابن حجر العسقلاني",
+   "deathYear": 852,
+   "category": "الحديث",
+   "sizeBytes": 64562,
+   "sha256": "3761ae98501e880f55d073d1f92c56e65ede988a6d195979f022ba6b6fbbb684",
+   "chapters": 4,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0875AH/master/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.ImtacBiArbacin/0852IbnHajarCasqalani.ImtacBiArbacin.JK001031-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "دار الكتب العلمية — بيروت - لبنان — 1418هـ - 1997م",
+    "editor": "أبو عبد الله محمد حسن محمد حسن إسماعيل الشافعي",
+    "versionUri": "0852IbnHajarCasqalani.ImtacBiArbacin.JK001031-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "umdat-fiqh",
+   "title": "عمدة الفقه",
+   "author": "ابن قدامة المقدسي",
+   "deathYear": 620,
+   "category": "الفقه",
+   "sizeBytes": 73005,
+   "sha256": "d8e090feecb37dc25180a5888c67a9680c7b878738c35484e0730c36a7e00888",
+   "chapters": 4,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0625AH/master/data/0620IbnQudamaMaqdisi/0620IbnQudamaMaqdisi.CumdatFiqh/0620IbnQudamaMaqdisi.CumdatFiqh.JK000287-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "مكتبة الطرفين — الطائف",
+    "editor": "عبد الله سفر العبدلي , محمد دغيليب العتيبي",
+    "versionUri": "0620IbnQudamaMaqdisi.CumdatFiqh.JK000287-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "zad-mustaqni",
+   "title": "زاد المستقنع في اختصار المقنع",
+   "author": "موسى بن أحمد بن سالم المقدسي الحنبلي أبو النجا",
+   "deathYear": 968,
+   "category": "الفقه",
+   "sizeBytes": 77771,
+   "sha256": "517de79b7e92941bdaa51b1dce161cb54b9f83b7fcd8c2bf0d7cb0bc6c077937",
+   "chapters": 4,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0975AH/master/data/0968IbnAhmadAbuNajaHajjawi/0968IbnAhmadAbuNajaHajjawi.ZadMustaqnic/0968IbnAhmadAbuNajaHajjawi.ZadMustaqnic.JK000790-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "مكتبة النهضة الحديثة — مكة المكرمة",
+    "editor": "علي محمد عبد العزيز الهندي",
+    "versionUri": "0968IbnAhmadAbuNajaHajjawi.ZadMustaqnic.JK000790-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "muqni-ibn-qudamah",
+   "title": "المقنع في فقه الإمام أحمد بن حنبل الشيباني",
+   "author": "ابن قدامة المقدسي",
+   "deathYear": 620,
+   "category": "الفقه",
+   "sizeBytes": 753286,
+   "sha256": "a0ea6d609985d3f0f57ff6d8ec3d9daffd6706a098a0b1c995ea5aed65e060a4",
+   "chapters": 172,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0625AH/master/data/0620IbnQudamaMaqdisi/0620IbnQudamaMaqdisi.MuqnicFiFiqh/0620IbnQudamaMaqdisi.MuqnicFiFiqh.JK000787BK1-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "المكتب الإسلامي — بيروت — 1400",
+    "editor": "",
+    "versionUri": "0620IbnQudamaMaqdisi.MuqnicFiFiqh.JK000787BK1-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "mughni",
+   "title": "المغني",
+   "author": "ابن قدامة المقدسي",
+   "deathYear": 620,
+   "category": "الفقه",
+   "sizeBytes": 3864281,
+   "sha256": "bc7846c329170ac7719b0af2f7c3a89dab368275b6520b773216e847a1bc604b",
+   "chapters": 218,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0625AH/master/data/0620IbnQudamaMaqdisi/0620IbnQudamaMaqdisi.Mughni/0620IbnQudamaMaqdisi.Mughni.JK000154-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "دار الفكر — بيروت — 1405",
+    "editor": "",
+    "versionUri": "0620IbnQudamaMaqdisi.Mughni.JK000154-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "rawdat-nazir",
+   "title": "روضة الناظر",
+   "author": "ابن قدامة المقدسي",
+   "deathYear": 620,
+   "category": "الفقه",
+   "sizeBytes": 174184,
+   "sha256": "617a1ef6afbd17c4a6fb4303ab185f0ddfbf69eed5bdec6b346241365b08ad26",
+   "chapters": 9,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0625AH/master/data/0620IbnQudamaMaqdisi/0620IbnQudamaMaqdisi.RawdatNazir/0620IbnQudamaMaqdisi.RawdatNazir.JK000156-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "جامعة الإمام محمد بن سعود — الرياض — 1399",
+    "editor": "د. عبد العزيز عبد الرحمن السعيد",
+    "versionUri": "0620IbnQudamaMaqdisi.RawdatNazir.JK000156-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "risala-shafii",
+   "title": "",
+   "author": "Muḥammad ibn Idrīs al-Shāfiʿī",
+   "deathYear": 204,
+   "category": "الفقه",
+   "sizeBytes": 115121,
+   "sha256": "4afe3ed62735ac95034e0c6dbb569701080b230a6de1103dd2d8dadbeef33ef9",
+   "chapters": 27,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0225AH/master/data/0204Shafici/0204Shafici.Risala/0204Shafici.Risala.LAL2013020402-ara2",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "",
+    "editor": "",
+    "versionUri": "0204Shafici.Risala.LAL2013020402-ara2",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "siyasa-shariyya",
+   "title": "السياسة الشرعية في اصلاح الراعي والرعية",
+   "author": "ابن تيمية",
+   "deathYear": 728,
+   "category": "الفقه",
+   "sizeBytes": 69621,
+   "sha256": "4afd221ae3403056c0d012cf52c562572ffabc182a0990f79a3bbc2d115d5a42",
+   "chapters": 4,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.SiyasaSharciyya/0728IbnTaymiyya.SiyasaSharciyya.JK000008-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "دار المعرفة",
+    "editor": "",
+    "versionUri": "0728IbnTaymiyya.SiyasaSharciyya.JK000008-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "hisba",
+   "title": "الحسبة في الإسلام",
+   "author": "ابن تيمية",
+   "deathYear": 728,
+   "category": "الفقه",
+   "sizeBytes": 29329,
+   "sha256": "1f2025069dd78c2396ddf2ab732a9251d6c581c1a2ff10e7c2d16917af78f630",
+   "chapters": 2,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.Hisba/0728IbnTaymiyya.Hisba.JK006982-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "",
+    "editor": "",
+    "versionUri": "0728IbnTaymiyya.Hisba.JK006982-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "sirah-ibn-hisham",
+   "title": "السيرة النبوية لابن هشام",
+   "author": "ابن هشام",
+   "deathYear": 213,
+   "category": "السيرة",
+   "sizeBytes": 645463,
+   "sha256": "5bc5581aa6474a6a1fdbf389ef868e4fe2e7e3a4c3f8fc957613333b3bade408",
+   "chapters": 206,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0225AH/master/data/0213IbnHisham/0213IbnHisham.SiraNabawiyya/0213IbnHisham.SiraNabawiyya.Shamela0023833-ara1.completed",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "شركة مكتبة ومطبعة مصطفى البابي الحلبي وأولاده بمصر",
+    "editor": "مصطفى السقا وإبراهيم الأبياري وعبد الحفيظ الشلبي",
+    "versionUri": "0213IbnHisham.SiraNabawiyya.Shamela0023833-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "zad-maad",
+   "title": "زاد المعاد في هدي خير العباد",
+   "author": "ابن القيم الجوزية",
+   "deathYear": 751,
+   "category": "السيرة",
+   "sizeBytes": 1312898,
+   "sha256": "ea8c17cb66984e81e71b521494431ed66696843ce07f5ed5705087c22d311725",
+   "chapters": 70,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0775AH/master/data/0751IbnQayyimJawziyya/0751IbnQayyimJawziyya.ZadMacad/0751IbnQayyimJawziyya.ZadMacad.JK000105-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "مؤسسة الرسالة - مكتبة المنار الإسلامية — بيروت - الكويت — 1407 - 1986",
+    "editor": "شعيب الأرناؤوط - عبد القادر الأرناؤوط",
+    "versionUri": "0751IbnQayyimJawziyya.ZadMacad.JK000105-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "wabil-sayyib",
+   "title": "الوابل الصيب من الكلم الطيب",
+   "author": "ابن القيم الجوزية",
+   "deathYear": 751,
+   "category": "التزكية",
+   "sizeBytes": 103212,
+   "sha256": "937f9f60f9f888aba5bf1d3ec74f99b97d8549918717ed8c501103d2677bd3a8",
+   "chapters": 6,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0775AH/master/data/0751IbnQayyimJawziyya/0751IbnQayyimJawziyya.WabilSayyib/0751IbnQayyimJawziyya.WabilSayyib.JK000069-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "دار الكتاب العربي — بيروت — 1405 - 1985",
+    "editor": "محمد عبد الرحمن عوض",
+    "versionUri": "0751IbnQayyimJawziyya.WabilSayyib.JK000069-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "fawaid-ibn-qayyim",
+   "title": "الفوائد",
+   "author": "ابن القيم الجوزية",
+   "deathYear": 751,
+   "category": "التزكية",
+   "sizeBytes": 153669,
+   "sha256": "e79afb898c1a9a5a12d8ece286a2ebc1f4149ecc86f0f1c91bb338349c8319f2",
+   "chapters": 8,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0775AH/master/data/0751IbnQayyimJawziyya/0751IbnQayyimJawziyya.Fawaid/0751IbnQayyimJawziyya.Fawaid.JK000060-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "دار الكتب العلمية — بيروت — 1393 - 1973",
+    "editor": "",
+    "versionUri": "0751IbnQayyimJawziyya.Fawaid.JK000060-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "madarij-salikin",
+   "title": "مدارج السالكين",
+   "author": "ابن القيم الجوزية",
+   "deathYear": 751,
+   "category": "التزكية",
+   "sizeBytes": 978396,
+   "sha256": "fac87461a63d7740a13e29da4c34fcd868ca8e20b3e68f7f1551d86617283a95",
+   "chapters": 49,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0775AH/master/data/0751IbnQayyimJawziyya/0751IbnQayyimJawziyya.MadarijSalikin/0751IbnQayyimJawziyya.MadarijSalikin.JK000081-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "دار الكتاب العربي — بيروت — 1393 - 1973",
+    "editor": "محمد حامد الفقي",
+    "versionUri": "0751IbnQayyimJawziyya.MadarijSalikin.JK000081-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "uddat-sabirin",
+   "title": "عدة الصابرين",
+   "author": "ابن القيم الجوزية",
+   "deathYear": 751,
+   "category": "التزكية",
+   "sizeBytes": 195752,
+   "sha256": "fadb62ab59e5d2824aedac32c81b1b40fe628fea7e451b6b022717866f664719",
+   "chapters": 10,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0775AH/master/data/0751IbnQayyimJawziyya/0751IbnQayyimJawziyya.CuddatSabirin/0751IbnQayyimJawziyya.CuddatSabirin.JK000057-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "دار الكتب العلمية — بيروت",
+    "editor": "زكريا علي يوسف",
+    "versionUri": "0751IbnQayyimJawziyya.CuddatSabirin.JK000057-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "tuhfat-mawdud",
+   "title": "تحفة المودود بأحكام المولود",
+   "author": "ابن القيم الجوزية",
+   "deathYear": 751,
+   "category": "التزكية",
+   "sizeBytes": 120153,
+   "sha256": "4995c0a25a3fa826bd2824e4189912f83607b304b6e6a07d99441cf0edcd1896",
+   "chapters": 7,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0775AH/master/data/0751IbnQayyimJawziyya/0751IbnQayyimJawziyya.TuhfatMawdud/0751IbnQayyimJawziyya.TuhfatMawdud.JK000095-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "مكتبة دار البيان — دمشق — 1391 - 1971",
+    "editor": "عبد القادر الأرناؤوط",
+    "versionUri": "0751IbnQayyimJawziyya.TuhfatMawdud.JK000095-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "tariq-hijratayn",
+   "title": "طريق الهجرتين وباب السعادتين",
+   "author": "ابن القيم الجوزية",
+   "deathYear": 751,
+   "category": "التزكية",
+   "sizeBytes": 358650,
+   "sha256": "477e7412fa0ffd63f6d8be02dd5e3f4deab0cb9016f2e0ad19b25bf6df692ae3",
+   "chapters": 18,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0775AH/master/data/0751IbnQayyimJawziyya/0751IbnQayyimJawziyya.TariqHijratayn/0751IbnQayyimJawziyya.TariqHijratayn.JK000065-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "دار ابن القيم — الدمام — 1414 - 1994",
+    "editor": "عمر بن محمود أبو عمر",
+    "versionUri": "0751IbnQayyimJawziyya.TariqHijratayn.JK000065-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "rawdat-muhibbin",
+   "title": "روضة المحبين ونزهة المشتاقين",
+   "author": "ابن القيم الجوزية",
+   "deathYear": 751,
+   "category": "التزكية",
+   "sizeBytes": 246245,
+   "sha256": "a7a6db86fa8b8540411b208b2e8ed3bde3124d070742bfdb8deec54ce27f0257",
+   "chapters": 12,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0775AH/master/data/0751IbnQayyimJawziyya/0751IbnQayyimJawziyya.RawdatMuhibbin/0751IbnQayyimJawziyya.RawdatMuhibbin.JK000063-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "دار الكتب العلمية — بيروت — 1412 - 1992",
+    "editor": "",
+    "versionUri": "0751IbnQayyimJawziyya.RawdatMuhibbin.JK000063-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "fawaid-ibn-qudamah",
+   "title": "الجزء الثاني من الفوائد - مخطوط",
+   "author": "ابن قدامة المقدسي",
+   "deathYear": 620,
+   "category": "التزكية",
+   "sizeBytes": 16098,
+   "sha256": "4aedd1a3ea69277ae5389a059d6b9c2bf497e4b055cb77b68792edcdb006ce11",
+   "chapters": 1,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0625AH/master/data/0620IbnQudamaMaqdisi/0620IbnQudamaMaqdisi.Fawaid/0620IbnQudamaMaqdisi.Fawaid.ShamAY0032887-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "",
+    "editor": "",
+    "versionUri": "0620IbnQudamaMaqdisi.Fawaid.ShamAY0032887-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "akhlaq-ulama",
+   "title": "أخلاق العلماء",
+   "author": "أبو بكر الآجري",
+   "deathYear": 360,
+   "category": "التزكية",
+   "sizeBytes": 28934,
+   "sha256": "d0091b22e1c3b5e7aa1ef31d7f12c820f7d960ca423250e5e7416d461c27d387",
+   "chapters": 10,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0375AH/master/data/0360AbuBakrAjurri/0360AbuBakrAjurri.AkhlaqCulama/0360AbuBakrAjurri.AkhlaqCulama.Shamela0001311-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "رئاسة إدارات البحوث العلمية والإفتاء والدعوة والإرشاد - السعودية",
+    "editor": "",
+    "versionUri": "0360AbuBakrAjurri.AkhlaqCulama.Shamela0001311-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "akhlaq-ahl-quran",
+   "title": "أخلاق أهل القرآن",
+   "author": "أبو بكر الآجري",
+   "deathYear": 360,
+   "category": "التزكية",
+   "sizeBytes": 30304,
+   "sha256": "6a235e7304c9bfcc3ebcaa82855fedb785ce5fd1531dd020d98266a40638145f",
+   "chapters": 10,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0375AH/master/data/0360AbuBakrAjurri/0360AbuBakrAjurri.AkhlaqAhlQuran/0360AbuBakrAjurri.AkhlaqAhlQuran.Shamela0010531-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "دار الكتب العلمية، بيروت - لبنان",
+    "editor": "الشيخ محمد عمرو عبد اللطيف بإشراف المكتب السلفي لتحقيق التراث",
+    "versionUri": "0360AbuBakrAjurri.AkhlaqAhlQuran.Shamela0010531-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "tibyan-nawawi",
+   "title": "التبيان في آداب حملة القرآن",
+   "author": "النووي",
+   "deathYear": 676,
+   "category": "التزكية",
+   "sizeBytes": 56354,
+   "sha256": "960cd2990fce42b5570200ebd36b0ef6520737e12cf18f975bd6013bac228110",
+   "chapters": 3,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0700AH/master/data/0676Nawawi/0676Nawawi.Tibyan/0676Nawawi.Tibyan.JK000125-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "الوكالة العامة للتوزيع — دمشق — 1403هـ - 1983م",
+    "editor": "",
+    "versionUri": "0676Nawawi.Tibyan.JK000125-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "zuhd-wa-wara",
+   "title": "الزهد والورع والعبادة",
+   "author": "ابن تيمية",
+   "deathYear": 728,
+   "category": "التزكية",
+   "sizeBytes": 88205,
+   "sha256": "43891ff45521968f96f016971697ab96dc4cc290685c4e4528faf2c489627bea",
+   "chapters": 5,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.ZuhdWaWarac/0728IbnTaymiyya.ZuhdWaWarac.JK000077-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "مكتبة المنار — الأردن — 1407",
+    "editor": "حماد سلامة ,‏محمد عويضة",
+    "versionUri": "0728IbnTaymiyya.ZuhdWaWarac.JK000077-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "muqaddimah-usul-tafsir",
+   "title": "مقدمة في أصول التفسير",
+   "author": "ابن تيمية",
+   "deathYear": 728,
+   "category": "التفسير وعلومه",
+   "sizeBytes": 24807,
+   "sha256": "77aa69477f63a5141928fb72e901ff453b5c6f76a77138064ca784d611451f8d",
+   "chapters": 11,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0750AH/master/data/0728IbnTaymiyya/0728IbnTaymiyya.MuqaddimaFiUsulTafsir/0728IbnTaymiyya.MuqaddimaFiUsulTafsir.Shamela0012081-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "دار مكتبة الحياة، بيروت، لبنان",
+    "editor": "",
+    "versionUri": "0728IbnTaymiyya.MuqaddimaFiUsulTafsir.Shamela0012081-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "tafsir-ibn-kathir",
+   "title": "تفسير القرآن العظيم",
+   "author": "ابن كثير",
+   "deathYear": 774,
+   "category": "التفسير وعلومه",
+   "sizeBytes": 3793385,
+   "sha256": "49a92c32c3624bc35f809b880fd539133c8581ede7147d5fe2d65da936e53039",
+   "chapters": 833,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0775AH/master/data/0774IbnKathir/0774IbnKathir.TafsirQuran/0774IbnKathir.TafsirQuran.Shamela0008473-ara1.mARkdown",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "دار طيبة للنشر والتوزيع",
+    "editor": "سامي بن محمد سلامة",
+    "versionUri": "0774IbnKathir.TafsirQuran.Shamela0008473-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "tibyan-aqsam-quran",
+   "title": "التبيان في أقسام القرآن",
+   "author": "ابن القيم الجوزية",
+   "deathYear": 751,
+   "category": "التفسير وعلومه",
+   "sizeBytes": 206796,
+   "sha256": "84796403e7c543dccc15be6fbe85371e435e55b2358c4272eee6fbf321ec0eec",
+   "chapters": 11,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/0775AH/master/data/0751IbnQayyimJawziyya/0751IbnQayyimJawziyya.TibyanFiAqsamQuran/0751IbnQayyimJawziyya.TibyanFiAqsamQuran.JK000102-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "دار الفكر",
+    "editor": "",
+    "versionUri": "0751IbnQayyimJawziyya.TibyanFiAqsamQuran.JK000102-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "tafsir-ayat-ibn-abdulwahhab",
+   "title": "تفسير آيات من القرآن الكريم",
+   "author": "محمد بن عبد الوهاب",
+   "deathYear": 1206,
+   "category": "التفسير وعلومه",
+   "sizeBytes": 117097,
+   "sha256": "a805257c9cffa465d1e6ff32d0ebfa1894c0a7bf3cdb77370f884bec412e1d41",
+   "chapters": 7,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/1225AH/master/data/1206IbnCabdWahhab/1206IbnCabdWahhab.TafsirAyatMinQuran/1206IbnCabdWahhab.TafsirAyatMinQuran.JK006889-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "مطابع الرياض — الرياض",
+    "editor": "راجع أصوله وصححه ووضع هوامشه وأعده للطبع الدكتور محمد بلتاجي",
+    "versionUri": "1206IbnCabdWahhab.TafsirAyatMinQuran.JK006889-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  },
+  {
+   "slug": "tafsir-muawwidhatayn",
+   "title": "مختصر تفسير المعوذتين",
+   "author": "محمد بن عبد الوهاب بن سليمان التميمي النجدي",
+   "deathYear": 1206,
+   "category": "التفسير وعلومه",
+   "sizeBytes": 15238,
+   "sha256": "87622d8ccda4965cad13631e18ce706f77f7694c2924e38be4fa747e79ca7c01",
+   "chapters": 1,
+   "source": {
+    "name": "OpenITI",
+    "url": "https://raw.githubusercontent.com/OpenITI/1225AH/master/data/1206IbnCabdWahhab/1206IbnCabdWahhab.MukhtasarTafsirMucawwidhatayn/1206IbnCabdWahhab.MukhtasarTafsirMucawwidhatayn.ShamAY0033100-ara1",
+    "license": "CC BY-NC-SA 4.0 (ترخيص مدوّنة OpenITI كما في سجلها على Zenodo: doi:10.5281/zenodo.3082463 — للاستخدام غير التجاري مع نسب العمل ومشاركة التعديلات بالمثل)",
+    "originalPublisher": "",
+    "editor": "",
+    "versionUri": "1206IbnCabdWahhab.MukhtasarTafsirMucawwidhatayn.ShamAY0033100-ara1",
+    "doi": "10.5281/zenodo.3082463"
+   }
+  }
+ ]
+}
